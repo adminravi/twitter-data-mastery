@@ -2,7 +2,6 @@
 
 Welcome to the official repository for the book **"Twitter Data Mastery: From Zero to Dashboard in 7 Days"** — your complete, hands-on guide to mastering the Twitter API with Python, sentiment analysis, and interactive dashboards using Streamlit.
 
-> 📘 **Book Style:** Eric Matthes-inspired + Bhai Gyaan wisdom  
 > 💡 **For:** Beginners, data journalists, political analysts, social media researchers, and aspiring data scientists.
 
 ---
